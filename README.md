@@ -1,10 +1,10 @@
 # Django-Ecommerce-Payment-Gateway
-**Project Summary-** Tilottoma ecommerce website is an online based ecommerce web application.
-        Through which you can do your own online business at home and you can set up and maintain an online business very easily. You can provide good service to the user through online. It is a single to multi vendor web application. <br />
+**Project Summary-** Django Ecommerce Payment Gateway website is an online based ecommerce web application.
+        Through which you can do your own online business at home and you can set up and maintain an online business very easily. You can provide good service to the user through online. <br />
 **Features-** Authentication Facility, Product add update delete and product added features are shown to the user.Users can add their preferred products to the card and from the card they can purchase products by making online based payments to purchase the products.You can review the product and if you want the product, you can return it within a few days.The user is provided with a nice profile facility through which he can know how many orders he has placed and see the products that have been added to the list.Admin can maintain everything from his admin dashboard. <br /> 
-**Language-** HTML,CSS,JAVASCRIPT,React BOOTSTRAP, React, Redux, DJANGO <br />
-**Database-** Postgresql <br />
-**Tools-** HTML,CSS,JAVASCRIPT,React BOOTSTRAP, React, Redux, DJANGO, Restfull API etc <br />  <br />  <br />
+**Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP, DJANGO, Restfull API etc. <br />
+**Database-** SQLite 3 <br />
+**Tools-** Visual Studio Code, Postman etc <br />  <br />  <br />
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Django-Ecommerce-Payment-Gateway%2Fp1.JPG?alt=media&token=62c8bdc1-0d64-479c-8d51-c7cf6378ec38"/>
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Django-Ecommerce-Payment-Gateway%2Fp2.JPG?alt=media&token=396f83f0-b376-4645-b33b-ae4fac9d63b3"/>
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Django-Ecommerce-Payment-Gateway%2Fp3.JPG?alt=media&token=89328546-6d64-44bc-8996-7208c4788624"/>
